@@ -6,7 +6,7 @@ print("hello world")
 
 name2 = str ("Ayesha")
 
-
+print("hello world")
 
 
 
