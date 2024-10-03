@@ -21,8 +21,12 @@
 # # Printing results
 # print("Concatenated String:\n", concatenated_string)  # New line before the string
 # print("Names with tab:\n\t", name1, "\n\t", name2)    # Printing with a tab space=("ayesha","asad")
+#Concatenation
+# Books = ("eng","urdu")
+# print(Books)
+#Length of string
 
-Books = ("eng","urdu")
-print(Books)
-
+str = "Ayesha"
+print(len)
+print(len(str))
 
