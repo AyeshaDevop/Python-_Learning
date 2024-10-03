@@ -1,12 +1,13 @@
            #string
 
-print("hello world")
 
 # sring : anything in inverted comes is called string ( ' ' , " " , '''  ''')
 
-name2 = str ("Ayesha")
+# name2 = str ("Ayesha")
 
-print("hello world")
+# print("hello world")
+
+# print("ayesha")
 
 
 
@@ -40,4 +41,6 @@ print("hello world")
 #concatenation : + ( "hello" , "world")
 #for Example
 
-name1 = "ayesha"
+# name1 = "ayesha"
+
+print("ayesha")
