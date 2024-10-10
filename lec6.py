@@ -5,10 +5,11 @@
 #     print(f"Hello, {name}! Welcome to Python class.")
 
 # Calling the function
-# welcome("Ali")
-# welcome("zara")
-# welcome("Ayesha")
-# welcome(name=("ali" , "ahmad"))
+welcome ("Ali")
+welcome ("zara")
+welcome ("Ayesha")
+welcome (name=("ali" , "ahmad"))
+
 #Recursion
 def factorial(n):
     # Base case: if n is 1 or 0, return 1 (since 0! and 1! are both 1)
